@@ -1,0 +1,1 @@
+{"mappings":"","sources":["src/app.js"],"sourcesContent":["export const plus = (a, b) => a + b\r\nexport const mines = (a, b) => a - b;\r\nexport const multiplay = (a, b) => a * b;\r\n"],"names":[],"version":3,"file":"Frond4Hw-6.0405075c.js.map"}
